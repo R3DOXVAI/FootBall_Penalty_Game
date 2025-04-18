@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1578830394 source:e:\term 1-2 project\icon.rc
+
+1579890082 source:e:\term 1-2 project\imain.cpp
+	"include/base.inc.h"
+	"include/Button.h"
+	"include/render.h"
+	"include/Text.h"
+	"include/Plane.h"
+	"bullet.h"
+	"include/GAMEELEMENTS.h"
+	"gameControl.h"
+	"Loader.h"
+	"Image.h"
+	"Enemy.h"
+
+1579724360 e:\term 1-2 project\include\base.inc.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579889796 e:\term 1-2 project\include\gameelements.h
+	<bits/stdc++.h>
+	"iGraphics.h"
+	"windows.h"
+	"defenition.h"
+
+1579890164 e:\term 1-2 project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 e:\term 1-2 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 e:\term 1-2 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1579886467 e:\term 1-2 project\include\defenition.h
+
+1578828284 e:\term 1-2 project\include\button.h
+	"GAMEELEMENTS.h"
+
+1578816422 e:\term 1-2 project\include\render.h
+	"GAMEELEMENTS.h"
+
+1578550736 e:\term 1-2 project\include\text.h
+	"GAMEELEMENTS.h"
+
+1579711038 e:\term 1-2 project\include\plane.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579287576 e:\term 1-2 project\include\bullet.h
+	"GAMEELEMENTS.h"
+	"Enemy.h"
+	"gameControl.h"
+
+1579723190 e:\term 1-2 project\include\gamecontrol.h
+	<fstream>
+	<dirent.h>
+	"GAMEELEMENTS.h"
+
+1579200110 e:\term 1-2 project\include\loader.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1578937552 e:\term 1-2 project\include\image.h
+	"GAMEELEMENTS.h"
+
+1579774120 source:e:\term 1-2 project\src\base.inc.cpp
+	"base.inc.h"
+
+1579773656 source:e:\term 1-2 project\src\bullet.cpp
+	"bullet.h"
+
+1579197956 source:e:\term 1-2 project\src\button.cpp
+	"Button.h"
+	"iGraphics.h"
+
+1579888465 source:e:\term 1-2 project\src\gamecontrol.cpp
+	"gameControl.h"
+	"Enemy.h"
+
+1579856404 source:e:\term 1-2 project\src\gameelements.cpp
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1579890186 source:e:\term 1-2 project\src\igraphics.cpp
+	"iGraphics.h"
+	"GAMEELEMENTS.h"
+
+1579327092 source:e:\term 1-2 project\src\image.cpp
+	"Image.h"
+
+1579723314 source:e:\term 1-2 project\src\loader.cpp
+	"Loader.h"
+
+1579774246 source:e:\term 1-2 project\src\plane.cpp
+	"Plane.h"
+
+1578827670 source:e:\term 1-2 project\src\render.cpp
+	"render.h"
+
+1578550768 source:e:\term 1-2 project\src\text.cpp
+	"Text.h"
+
+1579889009 source:e:\term 1-2 project\src\enemy.cpp
+	"Enemy.h"
+
+1579888370 e:\term 1-2 project\include\enemy.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1578830394 source:c:\users\asus\desktop\term 1-2 project\icon.rc
+
+1579725607 source:c:\users\asus\desktop\term 1-2 project\src\base.inc.cpp
+	"base.inc.h"
+
+1579724358 c:\users\asus\desktop\term 1-2 project\include\base.inc.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579711766 c:\users\asus\desktop\term 1-2 project\include\gameelements.h
+	<bits/stdc++.h>
+	"iGraphics.h"
+	"windows.h"
+	"defenition.h"
+
+1579197764 c:\users\asus\desktop\term 1-2 project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\users\asus\desktop\term 1-2 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\users\asus\desktop\term 1-2 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1579267152 c:\users\asus\desktop\term 1-2 project\include\defenition.h
+
+1579726198 source:c:\users\asus\desktop\term 1-2 project\src\bullet.cpp
+	"bullet.h"
+
+1579287576 c:\users\asus\desktop\term 1-2 project\include\bullet.h
+	"GAMEELEMENTS.h"
+	"Enemy.h"
+	"gameControl.h"
+
+1579718692 c:\users\asus\desktop\term 1-2 project\include\enemy.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579723189 c:\users\asus\desktop\term 1-2 project\include\gamecontrol.h
+	<fstream>
+	<dirent.h>
+	"GAMEELEMENTS.h"
+
+1579197956 source:c:\users\asus\desktop\term 1-2 project\src\button.cpp
+	"Button.h"
+	"iGraphics.h"
+
+1578828284 c:\users\asus\desktop\term 1-2 project\include\button.h
+	"GAMEELEMENTS.h"
+
+1579722823 source:c:\users\asus\desktop\term 1-2 project\src\enemy.cpp
+	"Enemy.h"
+
+1579723247 source:c:\users\asus\desktop\term 1-2 project\src\gamecontrol.cpp
+	"gameControl.h"
+
+1579722567 source:c:\users\asus\desktop\term 1-2 project\src\gameelements.cpp
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1579197802 source:c:\users\asus\desktop\term 1-2 project\src\igraphics.cpp
+	"iGraphics.h"
+	"GAMEELEMENTS.h"
+
+1579327092 source:c:\users\asus\desktop\term 1-2 project\src\image.cpp
+	"Image.h"
+
+1578937552 c:\users\asus\desktop\term 1-2 project\include\image.h
+	"GAMEELEMENTS.h"
+
+1579723313 source:c:\users\asus\desktop\term 1-2 project\src\loader.cpp
+	"Loader.h"
+
+1579200110 c:\users\asus\desktop\term 1-2 project\include\loader.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579711879 source:c:\users\asus\desktop\term 1-2 project\src\plane.cpp
+	"Plane.h"
+
+1579711036 c:\users\asus\desktop\term 1-2 project\include\plane.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1578827670 source:c:\users\asus\desktop\term 1-2 project\src\render.cpp
+	"render.h"
+
+1578816422 c:\users\asus\desktop\term 1-2 project\include\render.h
+	"GAMEELEMENTS.h"
+
+1578550768 source:c:\users\asus\desktop\term 1-2 project\src\text.cpp
+	"Text.h"
+
+1578550736 c:\users\asus\desktop\term 1-2 project\include\text.h
+	"GAMEELEMENTS.h"
+
+1579722982 source:c:\users\asus\desktop\term 1-2 project\imain.cpp
+	"include/base.inc.h"
+	"include/Button.h"
+	"include/render.h"
+	"include/Text.h"
+	"include/Plane.h"
+	"bullet.h"
+	"include/GAMEELEMENTS.h"
+	"gameControl.h"
+	"Loader.h"
+	"Image.h"
+	"Enemy.h"
+
+1578830394 source:c:\users\asus\desktop\1-2\term 1-2 project\icon.rc
+
+1579856499 source:c:\users\asus\desktop\1-2\term 1-2 project\imain.cpp
+	"include/base.inc.h"
+	"include/Button.h"
+	"include/render.h"
+	"include/Text.h"
+	"include/Plane.h"
+	"bullet.h"
+	"include/GAMEELEMENTS.h"
+	"gameControl.h"
+	"Loader.h"
+	"Image.h"
+	"Enemy.h"
+
+1579724360 c:\users\asus\desktop\1-2\term 1-2 project\include\base.inc.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579711768 c:\users\asus\desktop\1-2\term 1-2 project\include\gameelements.h
+	<bits/stdc++.h>
+	"iGraphics.h"
+	"windows.h"
+	"defenition.h"
+
+1579197764 c:\users\asus\desktop\1-2\term 1-2 project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\users\asus\desktop\1-2\term 1-2 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\users\asus\desktop\1-2\term 1-2 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1579267152 c:\users\asus\desktop\1-2\term 1-2 project\include\defenition.h
+
+1579723190 c:\users\asus\desktop\1-2\term 1-2 project\include\gamecontrol.h
+	<fstream>
+	<dirent.h>
+	"GAMEELEMENTS.h"
+
+1578828284 c:\users\asus\desktop\1-2\term 1-2 project\include\button.h
+	"GAMEELEMENTS.h"
+
+1578816422 c:\users\asus\desktop\1-2\term 1-2 project\include\render.h
+	"GAMEELEMENTS.h"
+
+1578550736 c:\users\asus\desktop\1-2\term 1-2 project\include\text.h
+	"GAMEELEMENTS.h"
+
+1579711038 c:\users\asus\desktop\1-2\term 1-2 project\include\plane.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579287576 c:\users\asus\desktop\1-2\term 1-2 project\include\bullet.h
+	"GAMEELEMENTS.h"
+	"Enemy.h"
+	"gameControl.h"
+
+1579772660 c:\users\asus\desktop\1-2\term 1-2 project\include\enemy.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1579200110 c:\users\asus\desktop\1-2\term 1-2 project\include\loader.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1578937552 c:\users\asus\desktop\1-2\term 1-2 project\include\image.h
+	"GAMEELEMENTS.h"
+
+1579774120 source:c:\users\asus\desktop\1-2\term 1-2 project\src\base.inc.cpp
+	"base.inc.h"
+
+1579773656 source:c:\users\asus\desktop\1-2\term 1-2 project\src\bullet.cpp
+	"bullet.h"
+
+1579197956 source:c:\users\asus\desktop\1-2\term 1-2 project\src\button.cpp
+	"Button.h"
+	"iGraphics.h"
+
+1579773428 source:c:\users\asus\desktop\1-2\term 1-2 project\src\enemy.cpp
+	"Enemy.h"
+
+1579723248 source:c:\users\asus\desktop\1-2\term 1-2 project\src\gamecontrol.cpp
+	"gameControl.h"
+
+1579856402 source:c:\users\asus\desktop\1-2\term 1-2 project\src\gameelements.cpp
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1579197802 source:c:\users\asus\desktop\1-2\term 1-2 project\src\igraphics.cpp
+	"iGraphics.h"
+	"GAMEELEMENTS.h"
+
+1579327092 source:c:\users\asus\desktop\1-2\term 1-2 project\src\image.cpp
+	"Image.h"
+
+1579723314 source:c:\users\asus\desktop\1-2\term 1-2 project\src\loader.cpp
+	"Loader.h"
+
+1579774246 source:c:\users\asus\desktop\1-2\term 1-2 project\src\plane.cpp
+	"Plane.h"
+
+1578827670 source:c:\users\asus\desktop\1-2\term 1-2 project\src\render.cpp
+	"render.h"
+
+1578550768 source:c:\users\asus\desktop\1-2\term 1-2 project\src\text.cpp
+	"Text.h"
+
+1675795738 source:c:\users\hp\desktop\term 1-2 project\icon.rc
+
+1675795739 source:c:\users\hp\desktop\term 1-2 project\imain.cpp
+	"include/base.inc.h"
+	"include/Button.h"
+	"include/render.h"
+	"include/Text.h"
+	"include/Plane.h"
+	"bullet.h"
+	"include/GAMEELEMENTS.h"
+	"gameControl.h"
+	"Loader.h"
+	"Image.h"
+	"Enemy.h"
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\base.inc.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\gameelements.h
+	<bits/stdc++.h>
+	"iGraphics.h"
+	"windows.h"
+	"defenition.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1675795743 c:\users\hp\desktop\term 1-2 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1675795742 c:\users\hp\desktop\term 1-2 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\defenition.h
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\gamecontrol.h
+	<fstream>
+	<dirent.h>
+	"GAMEELEMENTS.h"
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\button.h
+	"GAMEELEMENTS.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\render.h
+	"GAMEELEMENTS.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\text.h
+	"GAMEELEMENTS.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\plane.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\bullet.h
+	"GAMEELEMENTS.h"
+	"Enemy.h"
+	"gameControl.h"
+
+1675795740 c:\users\hp\desktop\term 1-2 project\include\enemy.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\loader.h
+	"GAMEELEMENTS.h"
+	"gameControl.h"
+
+1675795741 c:\users\hp\desktop\term 1-2 project\include\image.h
+	"GAMEELEMENTS.h"
+
